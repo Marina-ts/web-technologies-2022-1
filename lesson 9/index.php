@@ -41,3 +41,5 @@ function getLog(){
 }
 getLog();
 ?>
+</body>
+</html>
